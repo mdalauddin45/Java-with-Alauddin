@@ -10,6 +10,7 @@ public class Java_Substring_Comparisons {
         
         for(int i=0;i<=s.length()-k;i++){
             String sub = s.substring(i,i+k);
+            // System.out.println(sub);
             if(i==0){
                 smallest = sub;
             }
