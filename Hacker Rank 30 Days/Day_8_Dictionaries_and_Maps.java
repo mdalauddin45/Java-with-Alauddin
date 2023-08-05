@@ -1,42 +1,38 @@
 /**
  * Day_8_Dictionaries_and_Maps
  */
-import java.util.Scanner;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.HashMap;
 
 public class Day_8_Dictionaries_and_Maps {
 
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
-        String[] names = new String[n];
-        int[] phones = new int[n];
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        int n = Integer.parseInt(br.readLine());
+
+        HashMap<String, Integer> phoneBook = new HashMap<>();
 
         for (int i = 0; i < n; i++) {
-            names[i] = sc.next();
-            phones[i] = sc.nextInt();
+            String[] parts = br.readLine().split(" ");
+            String name = parts[0];
+            int phone = Integer.parseInt(parts[1]);
+            phoneBook.put(name, phone);
         }
 
-        //check input
-        // for (int i = 0; i < n; i++) {
-        //     System.out.println(names[i] + "=" + phones[i]);
-        // }
-        
-        while (sc.hasNext()) {
-            String s = sc.next();
-            boolean found = false;
+        while (true) {
+            String s = br.readLine();
+            if (s == null) break;
 
-            for (int i = 0; i < names.length; i++) {
-                if (names[i].equals(s)) {
-                    System.out.println(s + "=" + phones[i]);
-                    found = true;
-                    break;
-                }
-            }
-            if (!found) {
+            Integer phoneNumber = phoneBook.get(s);
+
+            if (phoneNumber != null) {
+                System.out.println(s + "=" + phoneNumber);
+            } else {
                 System.out.println("Not found");
             }
         }
     }
 }
 
-// this code is not working in hackerrank ..time limit exceeded
