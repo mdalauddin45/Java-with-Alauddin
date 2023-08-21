@@ -26,5 +26,6 @@ public class Day_11_2_D_Arrays {
                 max = Math.max(max, sum);
             }
         }
+        System.out.println(max);
     }
 }
