@@ -1,0 +1,8 @@
+1. Linear Search
+2. Binary Search
+3. Ternary Search
+4. Fibonacci Search
+5. Sorting Ascending
+6. Sorting Descending
+7. String Sorting Ascending
+8. String Sorting Descending
