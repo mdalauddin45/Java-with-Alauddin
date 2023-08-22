@@ -1,0 +1,1 @@
+{"name":"Local: Fibonacci_Search","url":"e:\\My Java\\University\\Assignment 2\\Fibonacci_Search.java","tests":[{"id":1692721325719,"input":"12\n10 22 35 40 45 50 80 82 85 90 100 235\n235","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\My Java\\University\\Assignment 2\\Fibonacci_Search.java","group":"local","local":true}
