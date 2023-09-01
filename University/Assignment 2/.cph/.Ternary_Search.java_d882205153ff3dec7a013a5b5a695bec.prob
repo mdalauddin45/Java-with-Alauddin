@@ -1,1 +1,0 @@
-{"name":"Local: Ternary_Search","url":"e:\\My Java\\University\\Assignment 2\\Ternary_Search.java","tests":[{"id":1692721130408,"input":"10\n10 20 30 40 50 60 70 80 90 100\n80","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\My Java\\University\\Assignment 2\\Ternary_Search.java","group":"local","local":true}

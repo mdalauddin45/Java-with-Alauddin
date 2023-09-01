@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7cc13cd2-35d4-45e3-a3fc-80322cd5c78b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../University/Assignment 2/Binary_Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../University/Assignment 2/Binary_Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Assignment 2/Fibonacci_Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../University/Assignment 2/Fibonacci_Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Assignment 2/Linear_Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../University/Assignment 2/Linear_Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Assignment 2/Sorting_Ascending.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../University/Assignment 2/Sorting_Ascending.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Assignment 2/Sorting_Descending.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../University/Assignment 2/Sorting_Descending.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2URcSOrsdEoI0H0hr0WzCd9awnO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "onboarding.tips.debug.path": "E:/My Java/E-Commerse/E-Commerse/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cc13cd2-35d4-45e3-a3fc-80322cd5c78b" name="Changes" comment="" />
+      <created>1692905832778</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692905832778</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

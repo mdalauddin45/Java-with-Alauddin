@@ -1,1 +1,0 @@
-{"name":"Local: isString","url":"e:\\My Java\\University\\isString.java","tests":[{"id":1689271507978,"input":"edited","output":"true"},{"id":1689271606226,"input":"ed","output":"true"},{"id":1689271616090,"input":"edit","output":"false"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\My Java\\University\\isString.java","group":"local","local":true}

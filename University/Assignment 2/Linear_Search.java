@@ -3,7 +3,6 @@
  */
 import java.util.Scanner;
 public class Linear_Search {
-
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         boolean flag = false;
