@@ -4,7 +4,7 @@ class Employee{
 class Programmer extends Employee{
     int bonus = 1000;
 }
-class Overtimes extends Employee{
+class Overtimes extends Employee{ 
     int over=800;
 }
 public class Hierarchical_inheritance {
