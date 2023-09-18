@@ -14,7 +14,6 @@ public class Hybrid_inheritance {
     public static void main(String[] args) {
         ManagerEmployee me =new ManagerEmployee();
         OvertimeEmployee oe =new OvertimeEmployee();
-        
         System.out.println("Manager salary paibo "+(me.salary+me.overtimeBonus+me.bonus));
         System.out.println("Overtime Employee salary paibo "+(oe.salary+oe.overtime));
     }
