@@ -8,7 +8,6 @@ public class Files_inputStream {
             while ((data = fin.read()) != -1) {
                 System.out.print((char) data);
             }    
-  
             fin.close();    
           }catch(Exception e){
             System.out.println(e);
