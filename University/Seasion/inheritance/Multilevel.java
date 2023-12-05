@@ -13,5 +13,4 @@ public class Multilevel {
         Shopping s = new Shopping();
         System.out.println(s.bonus+s.salary+s.shop);
     }
-
 }
