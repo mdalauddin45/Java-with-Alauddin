@@ -8,6 +8,7 @@ public class SwingExample {
         JLabel label = new JLabel("Enter your name:");
         JTextField textField = new JTextField(15);
         JButton button = new JButton("Submit");
+        
 
         panel.add(label);
         panel.add(textField);
@@ -17,7 +18,6 @@ public class SwingExample {
         frame.setSize(300, 150);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setVisible(true);
-
         frame.setLocationRelativeTo(null); 
     }
 }

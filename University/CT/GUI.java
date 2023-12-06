@@ -1,6 +1,10 @@
+import java.awt.Color;
+
+import javax.swing.ImageIcon;
+import javax.swing.JFrame;
 public class GUI {
     public static void main(String[] args){
-        /*
+        
         JFrame frame = new JFrame();
         frame.setTitle("BGC");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -13,7 +17,7 @@ public class GUI {
         ImageIcon image = new ImageIcon("logo.png");
         frame.setIconImage(image.getImage());
         frame.getContentPane().setBackground(new Color(0));
-         */
-        MyFrame myFrame = new MyFrame();
+        
+        // MyFrame myFrame = new MyFrame();
     }
 }
