@@ -1,6 +1,4 @@
-/**
- * Thread_example
- */
+//sala(Thread) akn(currentThread()) amr name niya dek(getName())
 class MyThread extends Thread{
     public void run(){
         System.out.println(Thread.currentThread().getName());
